@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- page located at http://example.com/complex_gather.xml -->
+<Response>
+    <Gather action="http://www.occupyyomama.org/peoplesmic/gather_processing.php" method="GET" numDigits="1">
+        <Say>
+            Welcome to people's mike. Press 1 to start a new mike, or enter a mike check number followed by the pound sign.
+        </Say>
+    </Gather>
+    <Say>We didn't get any input from you, talk to you later!</Say>
+</Response>
