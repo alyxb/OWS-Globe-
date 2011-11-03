@@ -153,41 +153,6 @@
 		
 		}
 
-		
-		//echo key($commonWords);
-		
-
-				
-		
-		
-		//arsort
-		
-		//sort in alphabetical order
-		
-		//for each 
-		
-		
-		//two variables store current value and last value === if not match then reset counter (case insentive)
-		
-		//trim off last S 
-		
-		//keep track of mongo ID for each keyword array
-
-		
-		
-		
-		// counter variable to count how many, if not match, reset counter
-		
-		
-		//secondary array keeps track of word and how many times written -> sort by that number to get top keywords
-		
-		
-		//keyword seach for terms match to rest data set
-		
-						
-	
-
-	
 	?>
 
 	</head>
