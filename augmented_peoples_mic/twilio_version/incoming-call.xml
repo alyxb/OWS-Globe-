@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Response>
+    <Gather action="check-pin.php" numDigits="4">
+        <Say>Welcome to the people's mike. To start a new mike, press 1 and then pound, otherwise enter a four digit mike PIN.</Say>
+    </Gather>
+    <!-- If caller doesn't input anything, prompt and try again. -->
+    <Redirect />
+</Response>
